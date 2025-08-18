@@ -21,7 +21,7 @@ body {
     border-radius: 15px;
     padding: 15px;
     margin-bottom: 10px;
-    max-width: 320px;
+    max-width: 280px;
     text-align: center;
 }
 
@@ -41,6 +41,7 @@ body {
 .qr-card p {
     font-size: 15px;
     color: hsl(216, 15%, 48%);
-    margin-bottom: 10px;
+    line-height: 20px;
+    margin-bottom: 20px;
 }
 
